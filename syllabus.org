@@ -1,0 +1,123 @@
+#+TITLE: Syllabus
+:PROPERTIES:
+#+OPTIONS: author:nil date:nil toc:nil
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \usepackage[letterpaper,margin=20mm]{geometry}
+#+LATEX_HEADER: \usepackage{longtable}
+#+LATEX_HEADER: \usepackage{titling}
+#+LATEX_HEADER: \setlength{\droptitle}{-80px}
+:END:
+
+#+latex: \vspace{-60px}
+
+* Programa de Asignatura
+  :PROPERTIES:  
+  :UNNUMBERED: t
+  :END:  
+
+* Información básica
+  Unidad académica responsable: [ingrese aquí]
+
+  Carrera: [ingrese aquí]
+
+  Ámbitos de desempeño: [ingrese aquí]
+* Identificación
+
++------------+------------+------------+------------+-------------+-------------+-------------+-------------+
+| Nombre de la asignatura:                                                                                  |
++------------+------------+------------+------------+-------------+-------------+-------------+-------------+
+| Código:                 | Crédito UdeC:           | Créditos SCT:             |                           |
++------------+------------+------------+------------+-------------+-------------+-------------+-------------+
+| Prerrequisitos:                                                                                           |
++------------+------------+------------+------------+-------------+-------------+-------------+-------------+
+| Modalidad:              | Calidad:                | Duración:                 |                           |
+|                         |                         |                           |                           |
++------------+------------+------------+------------+-------------+-------------+-------------+-------------+
+| Semestre en el plan de estudio:                                                                           |
++------------+------------+------------+------------+-------------+-------------+-------------+-------------+
+| Nombre de los cursos asociados a la asignatura:                                                           |
++------------+------------+------------+------------+-------------+-------------+-------------+-------------+
+| Trabajo académico:                                                                                        |
++------------+------------+------------+------------+-------------+-------------+-------------+-------------+
+| Horas teóricas:         | Horas prácticas:        | Horas de laboratorio:     | Horas de trabajo autónomo |
+|                         |                         |                           |    de cada estudiante:    |
++------------+------------+------------+------------+-------------+-------------+-------------+-------------+
+
+* Descripción
+  [En un párrafo, escriba sobre aspectos fundamentales de la asignatura, ofreciendo una contextualización de esta. Explique de qué manera el objetivo de la asignatura contribuye al desarrollo de competencias disciplinares y macrocompetencias genéricas que conforman el perfil de egreso de la carrera].
+
+* Competencias
+  [Enumere las competencias del perfil de egreso o del perfil intermedio1 a las que tributan los resultados de aprendizaje desarrollados en la asignatura].
+
+* Resultados de Aprendizaje
+  [Explicite los resultados de aprendizaje que se espera que los y las estudiantes logren desarrollar para aprobar la asignatura.
+
+  Aquí, puede agregar como máximo un resultado de aprendizaje asociado a una competencia que no aparezca especificada en el programa de la asignatura. Esto, sin embargo, debe ser revisado y autorizado por la o el jefe de departamento correspondiente, quien corroborará que el resultado de aprendizaje incorporado no es abordado en otra asignatura. Además, es necesario tener en cuenta que esta excepción es un indicador de que el plan de estudios al cual pertenece la asignatura requiere una evaluación o rediseño curricular].
+
+* Contenidos
+  [Lista de contenidos fundamentales de la asignatura. Corresponden a los conceptos básicos de la disciplina abordados en la asignatura. Son considerados necesarios y suficientes para el logro de los resultados de aprendizaje comprometidos en la sección V
+
+  Aquí, puede agregar como máximo un contenido asociado a una competencia que no aparezca especificada en el programa de la asignatura. Esto, sin embargo, debe ser revisado y autorizado por la o el jefe de departamento correspondiente, quien corroborará que el contenido incorporado no es abordado en otra asignatura. Además, es necesario tener en cuenta que esta excepción es un indicador de que el plan de estudios al cual pertenece la asignatura requiere una evaluación o rediseño curricular].
+
+* Metodología
+
+  [Procedimientos y técnicas que posibilitan la sistematización y organización del proceso de enseñanza que permitan alcanzar el logro de los resultados de aprendizaje].
+
+* Evaluación
+  [Mencionar las instancias evaluativas por medio de las cuales se verificará el nivel de logro alcanzado por los y las estudiantes, respecto de los resultados de aprendizaje. Ejemplos de instancias evaluativas son: certamen y presentación oral, Además, se debe indicar aquí la ponderación respectiva de cada evaluación]. 
+
+* Evidencias
+  Obligatorio sólo para asignaturas integradoras, opcional para otras asignaturas.
+  
+  [Indicar evidencias por medio de las cuales serán evaluadas las competencias. Ejemplos de evidencias son: portafolio, ensayo, método de caso, entre otras]. 
+
+* Bibliografía
+  [Indicar dos textos de lectura obligatoria y un texto de lectura complementaria, según el siguiente formato:
+
+  Apellido, inicial primer nombre. (Año publicación). Título del libro. Lugar edición: Editorial.].
+
+* Lineamientos Institucionales
+  - Universidad interdisciplinaria de impacto nacional con proyección internacional
+  - Innovación para la excelencia
+  - Comunidad comprometida con la inclusión y la equidad de género
+  - Desarrollo sustentable de la institución.
+
+* Planificación
+  Siguiendo el ejemplo de la tabla, indique el conjunto de actividades de enseñanza/aprendizaje que se desarrollarán durante el periodo lectivo en que se impartirá la asignatura. Considere las clases expositivas, evaluaciones, talleres, prácticos, visitas a terreno, entre otros. Tome en cuenta las actividades a desarrollar con presencia del profesor, así como el trabajo autónomo por parte del estudiantado. Vincule cada actividad con el o los resultados de aprendizaje indicados en la sección V. Verifique que ha diseñado actividades de aprendizaje y evaluación para todos ellos.
+
+
+#+latex: {\scriptsize
+#+ATTR_LATEX: :environment longtable
++---------+-------------+------------+-----------------------------+---------------------+--------------+---------------+-------------+
+| Semana  | Competencia | Resultados | Contenidos                  |Actividad de         | Evaluación   |Responsable    |Horas de     |
+|         |             |de          |                             |aprendizaje          |              |               |trabajo      |
+|         |             |Aprendizaje |                             |                     |              |               |académico    |
++---------+-------------+------------+-----------------------------+---------------------+--------------+---------------+-------------+
+|(Indicar |(Escribir las|(Señalar el |(Indicar explícitamente los  |(Describir la        |(Describir    |(Señalar a los |(Considerar  |
+|número   |competencias |resultado de|contenidos qu serán abordados|actividad, teórica o |brevemente la |responsables   |horas        |
+|de       |vinculadas a |aprendizaje |en la clase)                 |práctica, por medio  |isntancia     |de la sesión.  |teóricas,    |
+|semana)  |los          |abordado en |                             |de la cual se        |evaluativa,   |Por ejemplo:   |prácticas,   |
+|         |resultados de|la clase)   |                             |modelará el          |indicando su  |docente,       |laboratorios |
+|         |aprendizaje  |            |                             |contenido)           |carácter. Por |docente-estu-  |y trabajo    |
+|         |que se       |            |                             |                     |ejemplo:      |diante, o      |autónomo)    |
+|         |aboradarán   |            |                             |                     |Diagnóstica,  |estudiante     |             |
+|         |durante la   |            |                             |                     |formativa o   |               |             |
+|         |semana)      |            |                             |                     |sumativa)     |               |             |
+|         |             |            |                             |                     |              |               |             |
+|         |             |            |                             |                     |              |               |             |
++---------+-------------+------------+-----------------------------+---------------------+--------------+---------------+-------------+
+|         |             |            |                             |                     |              |               |             |
++---------+-------------+------------+-----------------------------+---------------------+--------------+---------------+-------------+
+|         |             |            |                             |                     |              |               |             |
++---------+-------------+------------+-----------------------------+---------------------+--------------+---------------+-------------+
+#+latex: }
+
+
+* Datos de Contacto
+  [Mencione aquí el nombre de la o el docente, los datos de contacto; horarios de: actividades, docencia directa y de atención a estudiantado; datos de contacto de personas que puedan prestar ayuda a los y las estudiantes].
+
+* Requisitos de la Asignatura
+  [Mencionar aquí aspectos normativos internos relacionados con: laboratorios, prácticas y salidas a terreno; comportamiento; horario de ingreso; y especificaciones sobre requisitos de asistencia].
+
+* Recursos de Aprendizaje
+  [Escribir aquí toda bibliografía fundamental y complementaria, linkografía, videos, y cualquier otro recurso de aprendizaje necesario para el desarrollo de la asignatura]. 
